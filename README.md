@@ -6,7 +6,7 @@
 <hr />
 
 ### To install locally :
-1. Clone this repo: `git clone git@github.com:bigcommerce/hello-world-app-python-flask.git`
+1. Clone this repo: `git clone https://github.com/D-z-V/slambook.gitt`
 2. Change to the repo directory: `cd slambook`
 4. Install dependencies with pip: `pip install -r requirements.txt`
 5. Run the app: `python ./app.py`
