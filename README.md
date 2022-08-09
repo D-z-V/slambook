@@ -1,6 +1,6 @@
 # slambook
 
-#### Deployed Site: 
+### Deployed Site: 
 [task3-slambook.herokuapp.com](https://task3-slambook.herokuapp.com/)
 
 <hr />
