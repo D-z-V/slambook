@@ -1,6 +1,6 @@
 # slambook
 
-#### Deployed Site : (task3-slambook.herokuapp.com)
+#### Deployed Site : [task3-slambook.herokuapp.com](task3-slambook.herokuapp.com)
 
 ### To install locally :
 1. Clone this repo: `git clone git@github.com:bigcommerce/hello-world-app-python-flask.git`
